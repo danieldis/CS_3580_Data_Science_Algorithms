@@ -1,5 +1,5 @@
 # CS_3580_Data_Science_Algorithms
-Learning Outcomes for Data Science Algorithms: 
+Learning Outcomes for Data Science Algorithms (Fall 2018): 
   - Completion of this course I will be able to summarize data mapping and data reduction algorithms.
   - Understand the basic principles of data science
   - Demonstrate scalable algorithms using distributed systems and/or distributed databases
